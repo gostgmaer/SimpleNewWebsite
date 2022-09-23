@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "This is a simple web application for new ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Null"
+  },
+  "keywords": [
+    "Job",
+    "website",
+    "jobportal",
+    "javascript",
+    "project",
+    "javascript"
+  ],
+  "author": "@kishor sarkar",
+  "license": "ISC"
+}
